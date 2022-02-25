@@ -1,0 +1,24 @@
+---
+title: "Causal Inference"
+author: Kwak, Hyunseok
+---
+
+-------------------------------
+**Causal Inference**에 대해 정리하는 사이트입니다.
+
+***  
+  
+### 참고 사이트
+
+* [인과추론의 데이터 과학](https://www.youtube.com/c/%EC%9D%B8%EA%B3%BC%EC%B6%94%EB%A1%A0%EC%9D%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99)
+* [Causal Inference: the Mixtape](https://mixtape.scunning.com/index.html)
+* [METHODS MATTER](https://stats.oarc.ucla.edu/other/examples/methods-matter/)
+  
+***
+
+### 참고서적
+
+* Ito, Koichiro(2018). 데이터 분석의 힘. 서울: 인플루엔셜.
+* Murnane, Richard J(2020). 교육연구와 연구방법론. 경기도: 교육과학사.
+* Angrist, Joshua D(2017). (고수들의) 계량경제학. 서울: 시그마프레스.
+* 김웅진(2011). 인과모형의 설계: 사회과학적 접근. 서울: 한국외국어대학교 출판부.
